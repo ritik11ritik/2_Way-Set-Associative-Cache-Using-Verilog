@@ -1,0 +1,2 @@
+2 blocks * 4 sets - 8-bit Cache
+256 page * 8bit RAM
