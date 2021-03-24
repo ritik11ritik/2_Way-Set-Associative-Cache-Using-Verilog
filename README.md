@@ -1,1 +1,1 @@
-# 2_Way-Set-Associative-Cache-Using-Verilog
+# 2-Way Set Associative Cache Using Verilog
